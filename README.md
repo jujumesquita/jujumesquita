@@ -1,4 +1,13 @@
 # Hi there. I'm Juliana Mesquita
+
+### 📌 About me
+
+- I'm an ***Economist*** from the ***Federal University of Rio de Janeiro (UFRJ)***
+- I have a join ***Master Degree*** in ***Economics*** from the ***Federal University of Rio de Janeiro (UFRJ)***
+- I'm an ***Economist*** from the ***Federal University of Rio de Janeiro (UFRJ)***
+- My main interests are ***Machine Learning***, ***Deep Learning***, ***Artificial Intelligence*** and ***Big Data*** :two_hearts:
+
+
 I am an economist, currently supervising the financial department of an NGO in Rio de Janeiro, Brazil developing reports and dashboards
 I am me aprofundando em data analysis and studying data science
 
