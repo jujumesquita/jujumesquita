@@ -2,10 +2,10 @@
 
 ### 📌 About me
 
-- I'm an ***Economist*** from the ***Federal University of Rio de Janeiro (UFRJ)***
+- I am currently working supervising the financial department of an NGO in Rio de Janeiro, Brazil supervisionando as rotinas e operações and analysing data, developing reports and dashboards
 - I have a join ***Master Degree*** in ***Economics*** from the ***Federal University of Rio de Janeiro (UFRJ)***
 - I'm an ***Economist*** from the ***Federal University of Rio de Janeiro (UFRJ)***
-- My main interests are ***Machine Learning***, ***Deep Learning***, ***Artificial Intelligence*** and ***Big Data*** :two_hearts:
+- My main interests are ***Data Analysis and Visualization***, ***Process Automation*** and ***Machine Learning***
 
 
 I am an economist, currently supervising the financial department of an NGO in Rio de Janeiro, Brazil developing reports and dashboards
