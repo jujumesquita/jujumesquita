@@ -1,4 +1,4 @@
-# Hi there. I'm Juliana Mesquita <img width="30px" src="https://github.com/jujumesquita/julianamesquita/master/hi.gif">
+# Hi there. I'm Juliana Mesquita <img width="30px" src="https://github.com/jujumesquita/julianamesquita/blob/master/hi.gif">
 
 ### 📌 About me
 - I am currently working at the finance department of an NGO in Rio de Janeiro, Brazil supervising finance routines and analysing data, developing reports and dashboards for decision-making process and automating activities and processes for productivity improvement
