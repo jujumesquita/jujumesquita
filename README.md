@@ -1,22 +1,35 @@
 # Hi there. I'm Juliana Mesquita
 
 ### 📌 About me
+<div style ="display: inline_block"><br/>
 
 - I am currently working supervising the financial department of an NGO in Rio de Janeiro, Brazil supervisionando as rotinas e operações and analysing data, developing reports and dashboards
 - I have a join ***Master Degree*** in ***Economics*** from the ***Comillas Pontifical University (Madrid, Spain)*** and ***Université Paris-Sud (Paris, France)***
 - I'm an ***Economist*** from the ***Federal University of Rio de Janeiro (UFRJ)***
 - My main interests are ***Data Analysis and Visualization***, ***Process Automation*** and ***Machine Learning***
 
+### 🎯 Studies
 
-I am an economist, currently supervising the financial department of an NGO in Rio de Janeiro, Brazil developing reports and dashboards
-I am me aprofundando em data analysis and studying data science
+- I'm focusing on topics concerning ***Data Analysis Learning*** and ***Data Science***:
+   
+  - ***(completed)*** Data Science para Negócios at COPPEAD, UFRJ
+  - ***(completed)*** Data Science para Todos at Data Boot Camp
+  - ***(completed)*** Power BI at Senac
+  - *(in progress)* IBM Data Analyst at Coursera
+  - *(in progress)* ["Formação Engenheiro de Dados: Domine Big Data!"][udemybigdata] Course, at [Udemy][udemy]
 
-## Links úteis: 
+### 📄 Portfolio
+
+You can check out my projects here!
+
+### 🔧 Languages and Tools
+
+
+
+
+## 📫 You can contact me here:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-mesquita-b5049341/)
-
-![Juliana Github stats](https://github-readme-stats.vercel.app/api?username=julianamesquita&show_icons=true&theme=radical)
-
 
 ## Tecnologias que estou estudando: 
 
