@@ -12,10 +12,10 @@ I'm focusing on topics concerning ***Data Analysis*** and ***Data Science***:
   - ***(completed)*** Data Science para Todos at Data Boot Camp
   - ***(completed)*** Power BI at Senac
   - *(in progress)* IBM Data Analyst at Coursera
-  - *(in progress)* O curso completo de Banco de Dados e SQL, sem mistérios! at Udemy
+  - *(in progress)* O curso completo de Banco de Dados e SQL at Udemy
 
 ### 📄 Portfolio
-You can check out my projects here!
+You can check out my projects here
 
 ### 🔧 Languages and Tools
 <div style ="display: inline_block"><br/>
