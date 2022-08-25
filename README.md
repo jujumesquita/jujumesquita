@@ -1,9 +1,9 @@
 # Hi there. I'm Juliana Mesquita 👋
 
 ### 📌 About me
-- I am currently working supervising the financial department of an NGO in Rio de Janeiro, Brazil supervisionando as rotinas e operações and analysing data, developing reports and dashboards
-- I have a join ***Master Degree*** in ***Economics*** from the ***Comillas Pontifical University (Madrid, Spain)*** and ***Université Paris-Sud (Paris, France)***
+- I am currently working at the finance department of an NGO in Rio de Janeiro, Brazil supervising finance routines and analysing data, developing reports and dashboards for decision-making process and automating activities and processes for productivity improvement
 - I'm an ***Economist*** from the ***Federal University of Rio de Janeiro (UFRJ)***
+- I have a join ***Master Degree*** in ***Economics*** from the ***Comillas Pontifical University (Madrid, Spain)*** and ***Université Paris-Sud (Paris, France)***
 - My main interests are ***Data Analysis and Visualization***, ***Process Automation*** and ***Machine Learning***
 
 ### 🎯 Studies
