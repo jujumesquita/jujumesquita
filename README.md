@@ -15,7 +15,7 @@ I'm focusing on topics concerning ***Data Analysis*** and ***Data Science***:
   - *(in progress)* O curso completo de Banco de Dados e SQL at Udemy
 
 ### 📄 Portfolio
-You can check out my projects here
+You can check out my projects [here](https://github.com/jujumesquita?tab=repositories)
 
 
 ### 🔧 Languages and Tools
