@@ -31,6 +31,6 @@ You can check out my projects here
 </div><br/>
 
 ### 📫 You can contact me here
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-mesquita-b5049341/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianamesquita7/)
 
 
