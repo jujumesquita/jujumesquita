@@ -23,7 +23,7 @@ You can check out my projects [here](https://github.com/jujumesquita?tab=reposit
   
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img align="center" alt="R Studio" src="https://img.shields.io/badge/-R%20Studio-276DC3?logo=R&logoColor=white&style=for-the-badge" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge" />
   <img align="center" alt="PowerAutomate" src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white&style=for-the-badge" />
   <img align="center" alt="Sharepoint" src="https://img.shields.io/badge/Sharepoint-0078D4?logo=microsoftsharepoint&logoColor=white&style=for-the-badge" />
